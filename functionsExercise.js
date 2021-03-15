@@ -104,3 +104,12 @@ const oldMuppetMovies = [
 // }
 // const twoMovies = oldMuppetMovies.filter(watch);
 // console.log(twoMovies);
+
+// BONUS
+
+// 13a
+const charactersOne = ["Statler", "Waldorf"]
+
+// 13b
+const charactersTwo = ["The Swedish Chef", "Animal", "Rowlf"]
+
